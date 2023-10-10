@@ -1,0 +1,15 @@
+.btn-purple{
+	background:purple;
+	color:white;
+	padding:7px 10px;
+	border-radius:6% ;
+	text-decoration:none;
+	
+
+}
+
+.btn-purple:hover{
+	background:white;
+	color:purple;
+}
+
